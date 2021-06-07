@@ -1,7 +1,7 @@
 # Device_Programming_2020
 
 ## * Based on Computer Logic design, various logic is designed using HDL (Hardware Description Language) etc.
-### Tool : Quartus
+### Simulation Tool : Modelsim Altera & Quartus
 ### Lagnguages : VHDL
 
 > - Lab 02. Sequence Detector 
