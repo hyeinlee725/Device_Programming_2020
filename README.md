@@ -1,8 +1,8 @@
 # Device_Programming_2020
 
-## * Based on Computer Logic design, various logic is designed using HDL (Hardware Description Language) etc.
+## Based on Computer Logic design, various logic is designed using HDL (Hardware Description Language) etc.
 ### Simulation Tool : Modelsim Altera & Quartus
-### Lagnguages : VHDL
+### Languages : VHDL
 
 > - Lab 02. Sequence Detector 
 > - Lab 03. One-Counter Design 
