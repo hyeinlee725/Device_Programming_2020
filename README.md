@@ -1,4 +1,4 @@
-# Device_Programming_2020
+# Device_Programming
 
 ## Based on Computer Logic design, various logic is designed using HDL (Hardware Description Language) etc.
 ### Languages : VHDL
