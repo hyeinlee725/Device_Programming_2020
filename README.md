@@ -2,7 +2,7 @@
 
 ## Based on Computer Logic design, various logic is designed using HDL (Hardware Description Language) etc.
 ### Languages : VHDL
-### Simulation Tool : Modelsim-Altera & Quartus II
+### Development Environment : Modelsim-Altera & Quartus II
 
 
 > - Lab 02. Sequence Detector 
