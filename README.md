@@ -1,10 +1,7 @@
 # Device_Programming
-
-## Based on Computer Logic design, various logic is designed using HDL (Hardware Description Language) etc.
 ### Languages : VHDL
 ### Development Environment : Modelsim-Altera & Quartus II
-
-
+## Based on Computer Logic design, various logic is designed using HDL (Hardware Description Language) etc.
 > - Lab 02. Sequence Detector 
 > - Lab 03. One-Counter Design 
 > - Lab 04.ROM을 이용한 Combinational Logic 설계
