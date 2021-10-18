@@ -1,5 +1,5 @@
 # Device_Programming
-### Languages : VHDL
+### Languages : VHDL(VHSIC Hardware Description Language)
 ### Development Environment : Modelsim-Altera & Quartus II
 ## Based on Computer Logic design, various logic is designed using HDL (Hardware Description Language) etc.
 > - Lab 02. Sequence Detector 
