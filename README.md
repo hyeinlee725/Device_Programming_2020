@@ -11,6 +11,5 @@
 > - Lab 09. General CPU design 1
 > - Lab 10. General CPU design 2
 > - Lab 11. Simple CPU design
-
 ### Programming Languages : VHDL(VHSIC Hardware Description Language)
 ### Development Environment : Modelsim-Altera & Quartus II
