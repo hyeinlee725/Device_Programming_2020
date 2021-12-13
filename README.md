@@ -1,5 +1,4 @@
 # Device_Programming
-
 ### Programming Languages : VHDL(VHSIC Hardware Description Language)
 ### Development Environment : Modelsim-Altera & Quartus II
 ## Based on Computer Logic design, various logic is designed using HDL (Hardware Description Language) etc.
