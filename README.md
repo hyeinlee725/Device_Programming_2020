@@ -11,4 +11,5 @@
 > - Lab 10. General CPU design 2
 > - Lab 11. Simple CPU design
 ### Programming Languages : VHDL(VHSIC Hardware Description Language)
-### Development Environment : Modelsim-Altera & Quartus II
+### Development Environment : Quartus II & 
+### Simulation Tool : Modelsim-Altera(RTL & Gate Level Simulation) 
