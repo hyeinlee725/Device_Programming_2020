@@ -1,4 +1,9 @@
 # Device_Programming
+
+### Programming Languages : VHDL(VHSIC Hardware Description Language)
+### Development Environment : Quartus II & 
+### Simulation Tool : Modelsim-Altera(RTL & Gate Level Simulation) 
+
 ## Based on Computer Logic design, various logic is designed using HDL (Hardware Description Language) etc.
 > - Lab 02. Sequence Detector 
 > - Lab 03. One-Counter Design 
@@ -10,6 +15,3 @@
 > - Lab 09. General CPU design 1
 > - Lab 10. General CPU design 2
 > - Lab 11. Simple CPU design
-### Programming Languages : VHDL(VHSIC Hardware Description Language)
-### Development Environment : Quartus II & 
-### Simulation Tool : Modelsim-Altera(RTL & Gate Level Simulation) 
